@@ -28,8 +28,8 @@ FOR PARALEL GPU  <b>BLOCKS = SIZE / (THREADS * 2)</b> <br>
 <sup>chart made with www.onlinecharttool.com</sup><br>
 
 <h2> How to get time results</h2>
-Main file <strong> kernel.cu</strong> to test this code located in CudaTut3 folder.<br>
-Open command prompt in CudaTut3 folder.<br>
+Main file <strong> kernel.cu</strong> to test this code located in CUDABubbleSort folder.<br>
+Open command prompt in CUDABubbleSort folder.<br>
 (Windows cmd) type: <i>nvcc kernel.cu</i><br>
 (Windows cmd) after that type: <i>nvprof a.exe</i>
 <br><br>
