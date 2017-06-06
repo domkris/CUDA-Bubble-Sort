@@ -20,7 +20,7 @@ Used array of sizes: 512, 1025, 2048, 4096  (odd and other integer numbers can b
 
 <h2> RESULTS GPU(DEVICE)</h2>
 Used array of sizes: 512, 1025, 2048. 4096 (Here it has to be 2^n)<br>
-FOR PARALEL GPU  <b>SIZE HAS TO BE 2^n</b> <br>
+FOR PARALEL GPU  <b>SIZE = 2^n</b> <br>
 FOR PARALEL GPU  <b>THREADS = SIZE / (BLOCKS * 2)</b> <br>
 FOR PARALEL GPU  <b>BLOCKS = SIZE / (THREADS * 2)</b> <br>
 <br><br>
