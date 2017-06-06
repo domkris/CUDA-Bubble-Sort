@@ -27,7 +27,7 @@ FOR PARALEL GPU  <b>BLOCKS = SIZE / (THREADS * 2)</b> <br>
 <a href="http://s1294.photobucket.com/user/DoVBid/media/BUbbleGPU_zpsoqoxtatj.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/BUbbleGPU_zpsoqoxtatj.png" border="0" alt=" photo BUbbleGPU_zpsoqoxtatj.png"/></a>
 <sup>chart made with www.onlinecharttool.com</sup><br>
 
-<h2> How to get time results</h2>
+<h2> Getting time results (nvcc compiler)</h2>
 Main file <strong> kernel.cu</strong> to test this code located in CUDABubbleSort folder.<br>
 Open command prompt in CUDABubbleSort folder.<br>
 (Windows cmd) type: <i>nvcc kernel.cu</i><br>
