@@ -1,6 +1,6 @@
 # CUDA-Bubble-Sort
 
-This project is developed as part of university studies to show how CUDA can be impractical for bubble sort, mostly due to 
+This project is developed as part of university studies to show how CUDA (Cuda 8.0 version used) can be impractical for bubble sort, mostly due to 
 asynchronous behaviour of blocks.
 
 <h2>Information about computer used to develop and test this program</h2>
