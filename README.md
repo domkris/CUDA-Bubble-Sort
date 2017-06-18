@@ -1,7 +1,9 @@
 # CUDA-Bubble-Sort
 
-This project is developed as part of university studies to show how CUDA (Cuda 8.0 version & Visual Studio Community) can be impractical for bubble sort, mostly due to 
+This project is developed as part of university studies to show how CUDA  can be impractical for bubble sort, mostly due to 
 asynchronous behaviour of blocks.
+
+<h9>Cuda 8.0 version, C++, Visual Studio Community 2015</h9>
 
 <h2>Information about computer used to develop and test this program</h2>
 WINDOWS & CPU INFO
