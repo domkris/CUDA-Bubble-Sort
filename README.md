@@ -37,6 +37,6 @@ Open command prompt in CUDABubbleSort folder.<br>
 (Windows cmd) after that type: <i>nvprof a.exe</i>
 <br><br>
 Profiling result: <br>
-(Time execution for <i>bubbleSortDeviceParralel()</i> is 64.096 ms)
+(Time execution for <i>bubbleSortDeviceParralel()</i> (size=1024) is 64.096 ms)
 
 <a href="http://s1294.photobucket.com/user/DoVBid/media/Screenshot%20179_zpsixcuqlao.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/Screenshot%20179_zpsixcuqlao.png" border="0" alt=" photo Screenshot 179_zpsixcuqlao.png"/></a>
