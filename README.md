@@ -13,7 +13,7 @@ WINDOWS & CPU INFO
 
 GPU INFO 
 
-<a href="http://s1294.photobucket.com/user/DoVBid/media/Screenshot%20182_zpstlxys0ai.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/Screenshot%20182_zpstlxys0ai.png" border="0" alt=" photo Screenshot 182_zpstlxys0ai.png"/></a>
+<a href="http://imgur.com/PPBPNiN" target="_blank"><img src="http://imgur.com/PPBPNiN" border="0" alt=" photo Screenshot 182_zpstlxys0ai.png"/></a>
 
 
 <h2> RESULTS CPU(HOST)</h2>
