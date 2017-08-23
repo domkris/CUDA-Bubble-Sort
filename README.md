@@ -13,7 +13,7 @@ WINDOWS & CPU INFO
 
 GPU INFO 
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/JZK9Z"><a href="//imgur.com/JZK9Z">dede</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <h2> RESULTS CPU(HOST)</h2>
