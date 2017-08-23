@@ -13,7 +13,7 @@ WINDOWS & CPU INFO
 
 GPU INFO 
 
-<a href="http://imgur.com/PPBPNiN" target="_blank"><img src="http://imgur.com/PPBPNiN" border="0" alt=" photo Screenshot 182_zpstlxys0ai.png"/></a>
+
 
 
 <h2> RESULTS CPU(HOST)</h2>
