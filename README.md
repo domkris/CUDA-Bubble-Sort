@@ -9,7 +9,7 @@ Cuda 8.0 version, C++, Visual Studio Community 2015
 <h2>Information about computer used to develop and test this program</h2>
 WINDOWS & CPU INFO
 
-<a href="http://s1294.photobucket.com/user/DoVBid/media/Screenshot%20181_zpsmhnj4yot.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/Screenshot%20181_zpsmhnj4yot.png" border="0" alt=" photo Screenshot 181_zpsmhnj4yot.png"/></a>
+![promisechains](https://github.com/domkris/files/blob/master/Screenshot%20(182).png?raw=true)
 
 GPU INFO 
 
