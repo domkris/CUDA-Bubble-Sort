@@ -18,7 +18,7 @@ GPU INFO
 
 <h2> RESULTS CPU(HOST)</h2>
 Used array of sizes: 512, 1025, 2048, 4096  (odd and other integer numbers can be used)
-<a href="http://s1294.photobucket.com/user/DoVBid/media/BUbbleCPU_zpscdwpsm0x.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/BUbbleCPU_zpscdwpsm0x.png" border="0" alt=" photo BUbbleCPU_zpscdwpsm0x.png"/></a>
+![promisechains](https://github.com/domkris/files/blob/master/BUbbleCPU%20.png?raw=true)
 <sup>chart made with www.onlinecharttool.com</sup><br>
 
 <h2> RESULTS GPU(DEVICE)</h2>
