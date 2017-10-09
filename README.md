@@ -29,7 +29,9 @@ FOR PARALEL GPU  <b>SIZE = 2^n</b> <br>
 FOR PARALEL GPU  <b>THREADS = SIZE / (BLOCKS * 2)</b> <br>
 FOR PARALEL GPU  <b>BLOCKS = SIZE / (THREADS * 2)</b> <br>
 <br><br>
-<a href="http://s1294.photobucket.com/user/DoVBid/media/BUbbleGPU_zpsoqoxtatj.png.html" target="_blank"><img src="http://i1294.photobucket.com/albums/b604/DoVBid/BUbbleGPU_zpsoqoxtatj.png" border="0" alt=" photo BUbbleGPU_zpsoqoxtatj.png"/></a>
+
+![promisechains](https://github.com/domkris/files/blob/master/BUbbleGPU.png?raw=true)
+
 <sup>chart made with www.onlinecharttool.com</sup><br>
 
 <h2> Getting time results (nvcc compiler)</h2>
