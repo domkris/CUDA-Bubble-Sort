@@ -18,7 +18,9 @@ GPU INFO
 
 <h2> RESULTS CPU(HOST)</h2>
 Used array of sizes: 512, 1025, 2048, 4096  (odd and other integer numbers can be used)
+
 ![promisechains](https://github.com/domkris/files/blob/master/BUbbleCPU.png?raw=true)
+
 <sup>chart made with www.onlinecharttool.com</sup><br>
 
 <h2> RESULTS GPU(DEVICE)</h2>
